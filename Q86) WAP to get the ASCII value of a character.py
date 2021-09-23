@@ -1,0 +1,1 @@
+print("ASCII of A: ",ord("A"),"\nASCII of a: ", ord("a"))
